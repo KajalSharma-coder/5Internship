@@ -36,7 +36,7 @@ Current Date and Time: 2026-06-18 22:30:15.123456
 ```
 
 ## Sample Output Screenshot
-
+![Docker Output](screenshot 2026-06-18 225257.png)
 
 ## Base Image
 
